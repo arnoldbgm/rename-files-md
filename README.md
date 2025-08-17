@@ -160,4 +160,4 @@ Si quieres, puedo prepararte esta misma documentación con **iconos, bloques de 
 
 ---
 
-$$ Developed-with-♥️-by-arnoldbgm 
+_Developed with ♥️ by arnoldbgm_
