@@ -19,10 +19,11 @@ Debe contener:
 
 | Columna | Contenido                   | Ejemplo           |
 | ------- | --------------------------- | ----------------- |
-| A       | Carpeta padre               | `Banco`, `Hotel`  |
+| A       | Carpeta padre               | `Banco`           |
 | B       | Nombre exacto del proveedor | `BANCO BBVA PERU` |
 | C       | Código de proveedor         | `270-VEN00001476` |
 | E       | Procesar (1=Sí, 0=No)       | `1`               |
+| F       | Vendor Folder               | `BBVA`            |
 
 ---
 
