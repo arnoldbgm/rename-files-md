@@ -318,8 +318,5 @@ Tu flujo debe tener esta estructura:
 - **Tamaño:** Archivos muy grandes (>100MB cada uno) pueden tardar mucho tiempo
 - **Codificación:** Caracteres especiales pueden no mostrarse correctamente
 
-_Desarrollado con ♥️ arnoldbgm_
 
----
-
-🎉 **¡Tu automatización local está lista para usar!** Ahora puedes unir archivos PDF directamente desde tu computadora sin depender de servicios en línea o software de terceros.
+_Developed with ♥️ by arnoldbgm_
